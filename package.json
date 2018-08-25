@@ -1,0 +1,14 @@
+{
+  "name": "my_portfoliio",
+  "version": "1.0.0",
+  "description": "responsive portforlio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Hongning Yu",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
