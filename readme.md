@@ -2,4 +2,6 @@
 
 A responsive portfolio site using HTML, Sass, CSS and Javascript.
 
-Visit it at [https://yhnedison.github.io/my_portfolio/](https://yhnedison.github.io/my_portfolio/)
+Visit it at [https://yhnedison.github.io/my_portfolio/](https://yhnedison.github.io/my_portfolio/
+
+Reopen in 03/04/2019)
